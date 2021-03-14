@@ -1,2 +1,2 @@
-# GMOD_Trolleybus_Input_Device
+# GMOD Trolleybus Input Device
 A DLL Module for Trolleybus System addon in Garry's Mod
